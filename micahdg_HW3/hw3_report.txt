@@ -1,0 +1,23 @@
+Micah Giles
+HW3 Report
+
+Cat = high pass, Dog = low pass
+The sigma for the cat: 6
+The sigma for the dog: 9
+
+Marilyn = high pass, Albert = low pass
+The sigma for Albert: 3
+The sigma for Marilyn: 4
+
+Bicycle = high pass, Motorcycle = low pass
+The sigma for the bike: 5
+The sigma for motorcycle: 8
+
+Bird = high pass, Plane = low pass
+The sigma for the plane: 7
+The sigma for the bird: 6
+
+Fish = high pass, Submarine = low pass
+The sigma for the sub: 5
+The sigma for the fish: 3
+
